@@ -119,9 +119,9 @@ Natural-Cause:
   Contact:
     - "%player% đã thử hôn một cây xương rồng xem nó có biến thành gái anime không"
   Melee:
-    - "%player% đã tự vặn hòn dái bên phải"
+    - "%player% đã tự đấm bản thân đến chết"
   Projectile-Unknown:
-    - "%player% đã tự bắn bản thân"
+    - "%player% đã tự bắn bản thân đến chết"
   Projectile-Arrow:
     - "%player% đã tự bắn bản thân sử dụng %weapon%"
   Projectile-Egg:
@@ -155,7 +155,7 @@ Natural-Cause:
   Explosion:
     - "%player% đã phát nổ"
   TNT:
-    - "%player% đang sục cặc bằng một quả tnt"
+    - "%player% đang sục cặc bằng một quả tnt thì nó phát nổ"
   Firework:
     - "%player% thực sự ăn một quả pháo thay vì một quả cà pháo ăn với canh cua"
   End-Crystal:
@@ -165,7 +165,7 @@ Natural-Cause:
   Lightning:
     - "%player% đã bị sét đánh chết"
   Suicide:
-    - "%player% đã tự vặn hòn dái bên trái"
+    - "%player% đã tự sát"
   Starvation:
     - "%player% đã tự cho mình vào nạn đói 45"
   Poison:
