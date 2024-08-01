@@ -206,48 +206,48 @@ Mobs:
   elderguardian:
     Solo:
       Projectile-Arrow:
-        - "%player% was shot by a %killer% somehow using %weapon%"
+        - "%player% bị %killer% sử dụng ảo thuật cho tan người"
       Weapon:
-        - "%player% was slain by a %killer% somehow using %weapon%"
+        - "%player% đã bị giết bởi %killer%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player% đã bị giết bởi %killer%"
     Gang:
       Projectile-Arrow:
-        - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
+        - "%player% bị một lũ %killer% sử dụng ảo thuật cho tan người"
       Weapon:
-        - "%player% was ganed up on by some %killer%'s! One wacked them with %weapon%"
+        - "%player% đã bị giết bởi một lũ %killer% sử dụng %weapon%"
       Melee:
-        - "%player% was slain by a bunch of %killer%'s"
+        - "%player% đã bị giết bởi một lũ %killer%"
   witherskeleton:
     Solo:
       Projectile-Arrow:
-        - "%player% was shot by a %killer% somehow using %weapon%"
+        - "%player% đã bị giết bởi một con %killer% da đen"
       Weapon:
-        - "%player% was slain by a %killer% somehow using %weapon%"
+        - "%player% đã bị giết bởi một con %killer% da đen sử dụng %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player% đã bị giết bởi một con %killer% da đen"
     Gang:
       Projectile-Arrow:
-        - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
+        - "%player% đã bị bắn chết bởi một đàn %killer% da đen"
       Weapon:
-        - "%player% was ganed up on by some %killer%'s! One wacked them with %weapon%"
+        - "%player% đã bị giết bởi một đàn %killer% da đen sử dụng %weapon%"
       Melee:
-        - "%player% was slain by a bunch of %killer%'s"
+        - "%player% đã bị giết bởi một đàn %killer% da đen"
   stray:
     Solo:
       Projectile-Arrow:
-        - "%player% was shot by a %killer% somehow using %weapon%"
+        - "%player% đã bị bắn chết bởi một con %killer%"
       Weapon:
-        - "%player% was slain by a %killer% somehow using %weapon%"
+        - "%player% đã bị giết bởi một con %killer% sử dụng %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player% đã bị giết bởi một con %killer%"
     Gang:
       Projectile-Arrow:
-        - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
+        - "%player% đã bị giết bởi một lũ %killer%"
       Weapon:
-        - "%player% was ganed up on by some %killer%'s! One wacked them with %weapon%"
+        - "%player% đã bị giết bởi một lũ %killer%"
       Melee:
-        - "%player% was slain by a bunch of %killer%'s"
+        - "%player% đã bị giết bởi một lũ %killer%"
   husk:
     Solo:
       Projectile-Arrow:
@@ -1350,53 +1350,53 @@ Mobs:
   player:
     Solo:
       Bed:
-        - "%player% stood too close to %killer%'s bed in the %world_environment%"
+        - "%player% đã cố ngủ cùng với %killer% ở trong %world_environment%"
       Respawn-Anchor:
-        - "%player% stood too close to %killer%'s respawn anchor in the %world_environment%"
+        - "%player% đã thử sử dụng chung Respawn Anchor với %killer% ở trong %world_environment%!"
       Contact:
-        - "%player% was pushed into a cactus by %killer%"
+        - "%player% đã bị troll bởi %killer% bằng cách đẩy vào một cây xương rồng"
       Projectile-Unknown:
-        - "%player% was shot by %killer%"
+        - "%player% đã bị bắn chết bởi %killer%"
       Projectile-Arrow:
-        - "%player% was shot by %killer% somehow using %weapon%"
+        - "%player% bắn chết bởi %killer% sử dụng %weapon%"
       Projectile-Fireball:
-        - "%player% was fireballed by %killer%"
+        - "%player% đã bị bắn đến nổ tung bởi %killer%"
       Projectile-Snowball:
-        - "%player% was hit in the head with a snowball thrown by %killer%"
+        - "%player% bị chọi bóng tuyết đến chết bởi %killer%"
       Weapon:
-        - "%player% was slain by %killer% somehow using %weapon%"
+        - "%player% đã bị chẻ đôi đầu bởi %killer% sử dụng %weapon%"
       Melee:
-        - "%player% was slain by %killer%"
+        - "%player% đã bị đấm vỡ mồm bởi %killer%"
       Suffocation:
-        - "%player% suffocated in a wall while fighting %killer_display%"
+        - "%player% tự nhiên kẹt trong tường khi đánh nhau với %killer_display%"
       Fall:
-        - "%player% was pushed off a high place by %killer%"
+        - "%player% đã bị %killer% đẩy xuống một nơi cao (gãy chân)"
       Lava:
-        - "%player% was pushed into lava by %killer%"
+        - "%player% đã bị %killer% đẩy xuống lava"
       Explosion:
-        - "%killer% blew up %player%"
+        - "%killer% đã phát nổ %player% thành từng mảnh"
       TNT:
-        - "%killer% blew up %player% with tnt"
+        - "%killer% đã phát nổ %player% bằng tnt"
       Firework:
-        - "%player% stood too close to %killer%'s fireworks"
+        - "%player% đứng quá gần với mấy quả pháo hoa của %killer%"
       End-Crystal:
-        - "%killer% killed %player% by blowing up an end-crystal!"
+        - "%killer% đã phát nổ %player% bằng một cái end-crystal"
       Void:
-        - "%player% was pushed into the void by %killer%"
+        - "%player% đã bị đẩy xuống the void bởi %killer%"
       Wither:
-        - "%player% withered away from %killer%'s magic"
+        - "%player% đã chết vì dính ảo thuật wither của %killer%"
       Thorns:
-        - "%player% tried playing with %killer%'s armor with thorns"
+        - "%player% đã thử đấm nhau nhưng bị giết bởi giáp gai của %killer%"
       # Hook related deaths
       CombatLogX-Kill:
         - "%player% logged out during combat fighting %killer%, they died still -.-"
     Gang:
       Projectile-Arrow:
-        - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
+        - "%player% đã bị gangbang của %killer% sử dụng %weapon%"
       Weapon:
-        - "%player% was ganed up on by some %killer%'s! One wacked them with %weapon%"
+        - "%player% đã bị gangbang của %killer% sử dụng %weapon%"
       Melee:
-        - "%player% was slain by a bunch of %killer%'s"
+        - "%player% đã bị gangbang của %killer% đấm vỡ mồm"
 
 Custom-Mobs:
   Mythic-Mobs:
